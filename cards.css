@@ -1,0 +1,143 @@
+.scrolling-wrapper{
+	overflow-x: auto;
+}
+
+
+h1{
+	font-weight: 800;
+	font-size: 3em;
+}
+
+.subtitle{
+	font-size: 1.25em;
+	opacity: 0.65;
+}
+
+.card-block{
+	height: 250px;
+	background-color: #fff;
+	border: none;
+	background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.8), hsla(270, 70%, 40%, 0.8)), url('https://source.unsplash.com/1024x1024?mountains');
+	background-position: center;
+	background-size: cover;
+	transition: all 0.2s ease-in-out !important;
+	&:hover{
+		transform: translateY(-5px);
+		box-shadow: none;
+	}
+}
+
+
+.card-block{
+	height: 250px;
+	background-color: #fff;
+	border: none;
+	background-position: center;
+	background-size: cover;
+	transition: all 0.2s ease-in-out !important;
+	&:hover{
+		transform: translateY(-5px);
+		box-shadow: none;
+	}
+}
+
+.card-block.q{
+    background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.418), hsla(270, 70%, 40%, 0.411)), url('1.jpg');
+
+}
+
+.card-block.w{
+	background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.363), hsla(270, 70%, 40%, 0.411)), url('a6.jpeg');
+
+}
+
+
+.card-block.e{
+	background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.445), hsla(270, 70%, 40%, 0.329)), url('bg.jpg');
+
+}
+
+
+.card-block.r{
+	background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.39), hsla(270, 70%, 40%, 0.356)), url('4.jpg');
+
+}
+
+
+.card-block.t{
+	background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.356), hsla(270, 70%, 40%, 0.356)), url('3.jpg');
+
+}
+
+
+.card-block.y{
+	background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.397), hsla(270, 70%, 40%, 0.336)), url('m1.jpeg');
+
+}
+
+.card-block.u{
+	background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.37), hsla(270, 70%, 40%, 0.342)), url('m2.jpeg');
+
+}
+.card-block.i{
+	background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.349), hsla(270, 70%, 40%, 0.363)), url('2.jpg');
+
+}
+
+
+
+
+
+
+.card-block1{
+	height: 230px;
+	background-color: #fff;
+	border: none;
+	background-position: center;
+	background-size: cover;
+	transition: all 0.3s ease-in-out !important;
+	&:hover{
+		transform: translateY(-5px);
+		box-shadow: none;
+	}
+}
+
+.card-block1.a{
+background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.479), hsla(270, 70%, 40%, 0.534)), url('m1.jpeg');
+}
+
+.card-block1.b{
+background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.411), hsla(270, 70%, 40%, 0.8)), url('m2.jpeg');
+}
+
+.card-block1.c{
+    background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.452), hsla(270, 70%, 40%, 0.445)), url('m3.jpeg');
+}
+
+.card-block1.c{
+background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.473)rgba(102, 31, 173, 0.432)8)), url('m4.jpeg');
+}
+
+.card-block1.d{
+background: linear-gradient(to right bottom, hsla(200, 90%, 70%, 0.445), hsla(270, 70%, 40%, 0.425)), url('m5.jpeg');
+}
+
+
+.card-block1:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.1); 
+  }
+
+  .card-block:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.1); 
+  }
+
+.hey{
+
+}
+  .hey:hover{
+    transition: transform .5s, filter 1.5s ease-in-out; 
+  }
